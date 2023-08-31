@@ -28,7 +28,7 @@ goMatrixC2 is a remote access tool that uses the Matrix Client API to establish 
 - cmd <arguments>: Executes a command prompt similar to a reverse shell.
 - pwsh <arguments>: Executes a PowerShell prompt similar to a reverse shell.
 - screenshot: Takes a screenshot and uploads it to the Command and Control (C2) server.
-- download <file/directory>: Uploads the specified file as a singular file or as a singular archive in case of a directory.
+- download <file/directory>: Uploads the specified file as a singular file or as a singular archive in case of a directory. (Usage of CatBoxMoe Api)
 - upload <download_link> -d <download_path>: Downloads the file and stores it in the temporary directory. If the -d flag is not used, it will be stored in the temporary directory.
 - proclist: Retrieves and displays all running processes as a table.
 - pwd: Displays the current working directory.
@@ -50,6 +50,10 @@ goMatrixC2 is a remote access tool that uses the Matrix Client API to establish 
 - uninstall: Removes itself from the system.
 
 > ⚠️ goMatrixC2 is also open to contributions and suggestions, so feel free to fork it, star it, or open an issue if you have any feedback.
+
+### Credits
+
+https://github.com/wabarc/go-catbox
 
 ### End
 
