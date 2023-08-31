@@ -19,7 +19,7 @@ goMatrixC2 is a remote access tool that uses the Matrix Client API to establish 
 
 ### Quick Start
 
-> Please refer to the [WIKI](https://n1k7l4i.github.io/posts/zulip-c2-0/) for guide through on setup.
+> Please refer to the [WIKI](https://n1k7l4i.github.io/posts/matrixc2-0/) for guide through on setup.
 
 ### Usage & Args
 
