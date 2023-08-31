@@ -3,7 +3,7 @@
   <h1>goMatrixC2</h1>
   <br/>
 
-<p><i>goMatrixC2 is a Remote Access Tool that uses <a href="https://matrix.org/">Zulip</a> as a Command and Control server for communicating with your implant. Created by <a href="https://twitter.com/n1k7l4i">@n1k7l4i</a>.</i></p>
+<p><i>goMatrixC2 is a Remote Access Tool that uses <a href="https://matrix.org/">Matrix</a> as a Command and Control server for communicating with your implant. Created by <a href="https://twitter.com/n1k7l4i">@n1k7l4i</a>.</i></p>
 <br />
 
   <img src="Pictures/Screenshot_1.png" width="70%" /><br />
