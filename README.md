@@ -15,7 +15,7 @@
 
 goMatrixC2 is a remote access tool that uses the Matrix Client API to establish a covert communication channel with a chat room and execute commands from an operator. The operator can use the chat room as a command and control center to manipulate the target system in various ways, such as:
 
-- Running commands using command prompt or PowerShell, similar to a reverse shell. Capturing screenshots from the target system and uploading them to the chat room. Transferring files between the target system and any location on the operator’s system.Managing processes, files, directories, network adapters, DNS cache, EDR drivers, and more on the target system. And much more!
+- Running commands using command prompt or PowerShell, similar to a reverse shell. Capturing screenshots from the target system and uploading them to the chat room. Transferring files between the target system and any location on the operator’s system. Managing processes, files, directories, network adapters, DNS cache, EDR drivers, and more on the target system. And much more!
 
 > ⚠️ goMatrixC2 is also open to contributions and suggestions, so feel free to fork it, star it, or open an issue if you have any feedback.
 
