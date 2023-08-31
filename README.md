@@ -17,8 +17,6 @@ goMatrixC2 is a remote access tool that uses the Matrix Client API to establish 
 
 - Running commands using command prompt or PowerShell, similar to a reverse shell. Capturing screenshots from the target system and uploading them to the chat room. Transferring files between the target system and any location on the operator’s system. Managing processes, files, directories, network adapters, DNS cache, EDR drivers, and more on the target system. And much more!
 
-> ⚠️ goMatrixC2 is also open to contributions and suggestions, so feel free to fork it, star it, or open an issue if you have any feedback.
-
 ### Quick Start
 
 > Please refer to the [WIKI](https://n1k7l4i.github.io/posts/zulip-c2-0/) for guide through on setup.
@@ -50,6 +48,8 @@ goMatrixC2 is a remote access tool that uses the Matrix Client API to establish 
 - uptime: Retrieves the uptime of the system.
 - listwindows: Lists out all the window names that are visible to the user.
 - uninstall: Removes itself from the system.
+
+> ⚠️ goMatrixC2 is also open to contributions and suggestions, so feel free to fork it, star it, or open an issue if you have any feedback.
 
 ### End
 
