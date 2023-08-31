@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="125px" src="Pictures/Astronaut-Skate.jpg" />
-  <h1>goZulipC2</h1>
+  <img width="125px" src="Pictures/Banner_Matrix.jpg" />
+  <h1>goMatrixC2</h1>
   <br/>
 
 <p><i>goMatrixC2 is a Remote Access Tool that uses <a href="https://matrix.org/">Zulip</a> as a Command and Control server for communicating with your implant. Created by <a href="https://twitter.com/n1k7l4i">@n1k7l4i</a>.</i></p>
